@@ -1,2 +1,2 @@
-Some common instructions of git;
-The homework;
+#Some common instructions of git;
+##The homework;
